@@ -30,3 +30,17 @@ while (j < fruits.length) {
 for (const fruit of fruits) {
   // console.log(fruit);
 }
+
+/**
+ * another loop using while
+ */
+const prices = [40, 100, 50, 40];
+let n = 0;
+let sum = 0;
+
+while (n < prices.length) {
+  let price = prices[n];
+  sum += price;
+  n++;
+}
+console.log(sum);
