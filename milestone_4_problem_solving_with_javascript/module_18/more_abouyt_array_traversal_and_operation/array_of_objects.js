@@ -1,5 +1,15 @@
 const numbers = [2, 5, 8, 6, 42]; // normal array
 
+/** array of object
+ *
+ * const products = [{}, {}, {}];
+ *
+ * const employees = [
+ *  {},
+ *  {},
+ * ];
+ */
+
 /**
  * eita hocche array of objects
  *
